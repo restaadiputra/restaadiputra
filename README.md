@@ -21,7 +21,7 @@
 <br />
 <br />
 
-Hi, I'm Resta Adiputra, a Front End Developer 👨🏻‍💻 from Bali, currently living in Jakarta for work. And No, Im not girl like the one in the GIF on the side. 🤣.
+A Front End Developer 👨🏻‍💻 from Bali whose currently living in Jakarta for work. And No, Im not girl like the one in the GIF on the side. 🤣.
 
 <img align="right" width="400px" alt="GIF" src="https://media.giphy.com/media/xT1Ra29TP7ZuSGKZna/giphy.gif" />
   
