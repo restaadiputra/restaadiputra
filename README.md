@@ -21,7 +21,7 @@
 <br />
 <br />
 
-A Front End Developer 👨🏻‍💻 from Bali whose currently living in Jakarta for work. And No, Im not girl like the one in the GIF on the side. 🤣.
+A Front End Developer 👨🏻‍💻 from Bali whose currently living in Jakarta for work. And No, Im not girl like the one in the GIF on the side. 🤣. And don't forget to visit my website at [resta-dev.com](https://resta-dev.com/)
 
 <img align="right" width="400px" alt="GIF" src="https://media.giphy.com/media/xT1Ra29TP7ZuSGKZna/giphy.gif" />
   
